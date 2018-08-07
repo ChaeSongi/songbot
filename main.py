@@ -1,2 +1,2 @@
-print('HELLO WORLD')
-print("bibibmun mukulgguya becuase of good")
+print("HELLO DAITGIRLS!!! Love you girls ❤️")
+print("🐷 🐸")
